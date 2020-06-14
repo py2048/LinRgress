@@ -1,0 +1,18 @@
+Statistics:
+    x = [2, 4, 6, 8, 10, 12]
+    x_err = [0, 0, 0, 0, 0, 0]
+    y = [42.0, 48.4, 51.3, 56.3, 58.6, 70.0]
+    y_err = [5, 5, 5, 5, 5, 5]
+    ∑x = 42
+    ∑x² = 364
+    ∑y =  326.6
+    ∑y² = 18241.899999999998
+    ∑xy = 2461.8
+Linear regression line: y = m * x +d
+    Slope:      m =2.5085714285714293
+    Intercept:  d = 36.873333333333335
+Uncertainty lines: y = m * x +d
+    m_max = m1 = 3.8
+    d_min = d1 = 29.4
+    m_min = m2 = 1.8
+    d_max = d2 = 43.4
